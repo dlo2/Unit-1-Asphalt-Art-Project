@@ -23,7 +23,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Reflection
 
-1. Describe your project.
+1.  Describe your project.
 
     In my project I used two painterPlus sub classes. One minionPainter to paint the outline and half the body and minionPainter2 to finish it. This then results in the Minion "Stuart," which is his name from the movie "Minions."
 
