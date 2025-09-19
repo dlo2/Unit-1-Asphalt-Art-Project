@@ -19,7 +19,8 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![alt text](image.png)
+![the output of my asphalt picturez](minion.png)
+
 ## Reflection
 
 1. Describe your project.
